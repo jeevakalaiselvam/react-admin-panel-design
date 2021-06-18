@@ -1,10 +1,10 @@
-# React Admin Material UI
+# React Admin Interface
 
-A simple react admin application using Material UI and React Admin
+A simple react admin interface
 
 # Live Version
 
-[CHECK WEBSITE](https://jeevakalaiselvam.github.io/react-admin-material-ui/)
+[CHECK WEBSITE](https://jeevakalaiselvam.github.io/react-admin-panel-design/)
 
 # Screenshots
 

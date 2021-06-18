@@ -1,11 +1,15 @@
 import React from "react";
 import "./sidebar.css";
 import {
+    AttachMoney,
     BarChart,
     ChatBubbleOutline,
     DynamicFeed,
     LineStyle,
     MailOutline,
+    MoneyOff,
+    MoneyOffOutlined,
+    MoneySharp,
     PermIdentity,
     Report,
     Storefront,
@@ -46,6 +50,10 @@ export default function Sidebar() {
                         <li className="sidebarListItem">
                             <Storefront className="sidebarIcon" />
                             Products
+                        </li>
+                        <li className="sidebarListItem">
+                            <AttachMoney className="sidebarIcon" />
+                            Transactions
                         </li>
                         <li className="sidebarListItem">
                             <BarChart className="sidebarIcon" />
