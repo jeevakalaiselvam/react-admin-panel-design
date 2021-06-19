@@ -49,6 +49,57 @@ export const userData = [
     },
 ];
 
+export const productData = [
+    {
+        name: "Jan",
+        Sales: 1232,
+    },
+    {
+        name: "Feb",
+        Sales: 2343,
+    },
+    {
+        name: "Mar",
+        Sales: 900,
+    },
+    {
+        name: "Apr",
+        Sales: 1231,
+    },
+    {
+        name: "May",
+        Sales: 800,
+    },
+    {
+        name: "Jun",
+        Sales: 2780,
+    },
+    {
+        name: "Jul",
+        Sales: 1123,
+    },
+    {
+        name: "Aug",
+        Sales: 2334,
+    },
+    {
+        name: "Sep",
+        Sales: 1350,
+    },
+    {
+        name: "Oct",
+        Sales: 2360,
+    },
+    {
+        name: "Nov",
+        Sales: 3470,
+    },
+    {
+        name: "Dec",
+        Sales: 2360,
+    },
+];
+
 export const userRows = [
     {
         id: 1,
@@ -129,5 +180,78 @@ export const userRows = [
         email: "jonsnow@got.com",
         status: "ACTIVE",
         transaction: "$120.00",
+    },
+];
+
+export const productRows = [
+    {
+        id: 1,
+        name: "Apple Iphone",
+        image: "https://specials-images.forbesimg.com/imageserve/5f5293860289c180f9dd5a41/960x0.jpg?fit=scale",
+        type: "Electronics",
+        price: "$800",
+    },
+    {
+        id: 2,
+        name: "Apple Iphone",
+        image: "https://specials-images.forbesimg.com/imageserve/5f5293860289c180f9dd5a41/960x0.jpg?fit=scale",
+        type: "Electronics",
+        price: "$800",
+    },
+    {
+        id: 3,
+        name: "Apple Iphone",
+        image: "https://specials-images.forbesimg.com/imageserve/5f5293860289c180f9dd5a41/960x0.jpg?fit=scale",
+        type: "Electronics",
+        price: "$800",
+    },
+    {
+        id: 4,
+        name: "Apple Iphone",
+        image: "https://specials-images.forbesimg.com/imageserve/5f5293860289c180f9dd5a41/960x0.jpg?fit=scale",
+        type: "Electronics",
+        price: "$800",
+    },
+    {
+        id: 5,
+        name: "Apple Iphone",
+        image: "https://specials-images.forbesimg.com/imageserve/5f5293860289c180f9dd5a41/960x0.jpg?fit=scale",
+        type: "Electronics",
+        price: "$800",
+    },
+    {
+        id: 6,
+        name: "Apple Iphone",
+        image: "https://specials-images.forbesimg.com/imageserve/5f5293860289c180f9dd5a41/960x0.jpg?fit=scale",
+        type: "Electronics",
+        price: "$800",
+    },
+    {
+        id: 7,
+        name: "Apple Iphone",
+        image: "https://specials-images.forbesimg.com/imageserve/5f5293860289c180f9dd5a41/960x0.jpg?fit=scale",
+        type: "Electronics",
+        price: "$800",
+    },
+    {
+        id: 8,
+        name: "Apple Iphone",
+        image: "https://specials-images.forbesimg.com/imageserve/5f5293860289c180f9dd5a41/960x0.jpg?fit=scale",
+        type: "Electronics",
+        price: "$800",
+    },
+    {
+        id: 9,
+        name: "Apple Iphone",
+        image: "https://specials-images.forbesimg.com/imageserve/5f5293860289c180f9dd5a41/960x0.jpg?fit=scale",
+        type: "Electronics",
+        price: "$800",
+    },
+    {
+        id: 10,
+        name: "Apple Iphone",
+        image: "https://specials-images.forbesimg.com/imageserve/5f5293860289c180f9dd5a41/960x0.jpg?fit=scale",
+        type: "Electronics",
+        price: "$800",
     },
 ];

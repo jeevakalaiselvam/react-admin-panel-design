@@ -14,7 +14,7 @@
 .widgetSmImg {
     width: 50px;
     height: 50px;
-    border-radius: 5px;
+    border-radius: 50%;
     object-fit: cover;
 }
 
@@ -22,6 +22,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+    flex-grow: 1;
 }
 
 .widgetSmListItem {
@@ -32,8 +33,12 @@
 }
 
 .widgetSmUser {
+    flex-grow: 1;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
 }
 
 .widgetSmUsername {
@@ -41,10 +46,11 @@
 }
 
 .widgetSmUserTitle {
-    font-weight: 300;
+    font-size: 14px;
+    font-weight: 200;
 }
 
-.widgetSmButtoon {
+.widgetSmButton {
     display: flex;
     align-items: center;
     border: none;

@@ -10,12 +10,14 @@ export default function Home() {
     return (
         <div className="home">
             <FeaturedInfo />
-            <Chart
-                data={userData}
-                title={"User Analytics"}
-                dataKey={"Active Users"}
-                grid={true}
-            />
+            <div className="homeChart">
+                <Chart
+                    data={userData}
+                    title={"User Analytics"}
+                    dataKey={"Active Users"}
+                    grid={true}
+                />
+            </div>
             <div className="homeWidgets">
                 <WidgetSm />
                 <WidgetLg />
