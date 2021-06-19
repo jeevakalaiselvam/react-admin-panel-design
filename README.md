@@ -8,4 +8,4 @@ A simple react admin interface
 
 # Screenshots
 
-![Screenshot](screens/screen1.jpg)
+![Screenshot](screens/screen.jpg)
