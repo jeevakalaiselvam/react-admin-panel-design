@@ -4,7 +4,7 @@ A simple react admin interface
 
 # Live Version
 
-[CHECK WEBSITE](https://jeevakalaiselvam.github.io/react-admin-panel-design/)
+[CHECK WEBSITE](https://reactadminpanel.vercel.app/)
 
 # Screenshots
 
